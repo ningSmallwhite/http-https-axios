@@ -1,0 +1,24 @@
+{
+  "mies": [
+    {
+      "id": 1,
+      "uname": "李四",
+      "age": "18"
+    },
+    {
+      "id": 2,
+      "uname": "张某",
+      "age": "20"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comments",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "profile"
+  }
+}
