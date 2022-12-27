@@ -1,6 +1,5 @@
 <template>
   <div class="">
-    <h1>axios请求</h1>
     <button @click="onAxios">点击发送请求</button>
     <button @click="onAxiosAdd">点击添加数据</button>
     <button @click="onAxiosDelete">点击删除数据</button>

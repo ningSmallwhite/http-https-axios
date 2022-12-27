@@ -2,8 +2,8 @@
   <div id="app">
     <nav>
       <router-link to="/">HTTP/HTTPS协议</router-link> |
-      <router-link to="/about">About</router-link> |
-      <router-link to="/axios">axios请求</router-link>
+      <router-link to="/axios">axios请求</router-link> |
+      <router-link to="/fetch">fetch请求</router-link>
     </nav>
     <router-view></router-view>
   </div>
